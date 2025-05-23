@@ -19,7 +19,7 @@ npx cap open android
 ```
 - Zatim builduj iz Android Studija.
 - Ukoliko niste u mogućnosti da buildujete app, takođe se nalazi i .exe za direktnu instalaciju.
-[Link Text](https://mega.nz/file/yQViTJBD#SK2_EzMux9xXyj5WeuTjdlc2ANOBxluBtDQ7Zt1980E)
+[Preuzmi ovde exe](https://mega.nz/file/yQViTJBD#SK2_EzMux9xXyj5WeuTjdlc2ANOBxluBtDQ7Zt1980E)
 
 ## 🖼️ Izgled aplikacije
 
