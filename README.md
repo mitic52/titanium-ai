@@ -14,20 +14,10 @@
 **Lokalno pokretanje:**
 ```bash
 npm install
-npm run dev
-```
-
-**Build za produkciju:**
-```bash
-npm run build
-```
-
-**Generisanje Android APK-a:**
-```bash
 npx cap add android
+npm run android
 npx cap open android
 ```
-
 Zatim builduj iz Android Studija.
 
 ## 🖼️ Screenshotovi
