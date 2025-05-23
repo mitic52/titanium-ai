@@ -1,7 +1,7 @@
 
 # 📱 Titanium AI
 
-**Titanium Tracker AI** je fitness orijentisana aplikacija izrađena u React + Vite okruženju, sa podrškom za mobilne uređaje korišćenjem Capacitor-a. Aplikacija omogućava korisnicima da prate svoje vežbe, istoriju treninga i napredak kroz interaktivan UI i korisnički pristup.
+**Titanium Tracker AI** je fitness aplikacija izrađena u React + Vite okruženju, sa podrškom za mobilne uređaje korišćenjem Capacitor-a. Aplikacija omogućava korisnicima da prate svoje vežbe, istoriju treninga i napredak kroz interaktivan UI i korisnički pristup.
 
 ## ✨ Karakteristike
 - Prikaz i organizacija trening dana (Push, Pull, Legs, Cardio...)
