@@ -11,7 +11,6 @@
 
 ## 📲 Instalacija i build
 
-**Lokalno pokretanje:**
 ```bash
 npm install
 npx cap add android
