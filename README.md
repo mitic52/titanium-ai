@@ -18,6 +18,7 @@ npm run android
 npx cap open android
 ```
 Zatim builduj iz Android Studija.
+Takođe se nalazi i .exe file ukoliko niste u mogućnosti da buildujete app.
 
 ## 🖼️ Izgled aplikacije
 
