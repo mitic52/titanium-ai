@@ -17,8 +17,8 @@ npx cap add android
 npm run android
 npx cap open android
 ```
--Zatim builduj iz Android Studija.
--Ukoliko niste u mogućnosti da buildujete app, takođe se nalazi i .exe za direktnu instalaciju.
+- Zatim builduj iz Android Studija.
+- Ukoliko niste u mogućnosti da buildujete app, takođe se nalazi i .exe za direktnu instalaciju.
 
 ## 🖼️ Izgled aplikacije
 
