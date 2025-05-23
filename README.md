@@ -19,8 +19,5 @@ npx cap open android
 ```
 Zatim builduj iz Android Studija.
 
-## 🖼️ Screenshotovi
+## 🖼️ Izgled aplikacije
 Dodaj screenshotove aplikacije u ovom README fajlu sa opisima ispod svakog.
-
-## 📬 Kontakt
-Za bilo kakva pitanja ili predloge, slobodno me kontaktiraj putem GitHub Issues.
