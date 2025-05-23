@@ -20,4 +20,5 @@ npx cap open android
 Zatim builduj iz Android Studija.
 
 ## 🖼️ Izgled aplikacije
-Dodaj screenshotove aplikacije u ovom README fajlu sa opisima ispod svakog.
+
+![image alt](https://github.com/mitic52/titanium-ai/blob/main/banner.png?raw=true)
